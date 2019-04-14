@@ -1,3 +1,3 @@
 # bamazon
 
-![](bamazon.gif)
+![](bamazon.mov)
