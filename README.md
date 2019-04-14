@@ -1,3 +1,3 @@
 # bamazon
 
-![](bamazon.mov)
+[![Watch the demo]()](bamazon.mov)
